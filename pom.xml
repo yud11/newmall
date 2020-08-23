@@ -5,7 +5,7 @@
     <groupId>com.yudi.mall</groupId>
     <artifactId>mall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ware</name>
+    <name>mall</name>
     <packaging>pom</packaging>
 
 
@@ -15,6 +15,9 @@
         <module>member</module>
         <module>order</module>
         <module>ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>common</module>
     </modules>
 
 
